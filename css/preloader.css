@@ -34,20 +34,20 @@
 	opacity:0.6
 }
 
-/*#preloader #his-name,
+#preloader #his-name,
 #preloader #her-name{
 	display:inline-block;
 	font-family:'Oswald', sans-serif; 
 	font-size:30px; 
 	letter-spacing:2px; 
-}*/
+}
 
-#preloader #heart-on-center{
+/*#preloader #heart-on-center{
 	display:inline-block;
 	color:#f98d8a; 
 	font-size:30px; 
 }
-
+*/
 #preloader .spinner-animation{
 	-webkit-animation: pace-3d-spinner linear infinite 2s;
   	   -moz-animation: pace-3d-spinner linear infinite 2s;
